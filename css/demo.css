@@ -123,6 +123,9 @@ footer {
 	margin: 3em 1em 0;
 	/*border: 4px solid #fff;*/
 }
+footer img{
+	width: 100%;
+}
 .image-section img{
 	display: inline-block;
 	width:33%;
