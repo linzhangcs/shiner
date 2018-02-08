@@ -1,5 +1,5 @@
 .cbp-so-scroller {
-	margin-top: 3em;
+	margin-top: 2em;
 	overflow: hidden;
 }
 
@@ -20,7 +20,7 @@
 
 /* Text styling */
 .cbp-so-section h2 {
-	font-size: 2em;
+	font-size: 4em;
 	font-weight: 300;
 	line-height: 1;
 }
