@@ -43,10 +43,10 @@
 	transition: transform 0.5s, opacity 0.5s;
 }
 .cbp-so-side-text {
-	width:50%
+	width:42%
 }
 .cbp-so-side-img {
-	width:50%
+	width:58%
 }
 /* Clear floats of children */
 .cbp-so-side:before,
